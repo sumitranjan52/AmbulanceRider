@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Ambulance</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login_here">Login here</string>
+    <string name="use_your_username_and_password_to_login">Use your email and password to Login.</string>
+    <string name="login_now">Login Now</string>
+    <string name="register">Register</string>
+    <string name="register_here">Register here</string>
+    <string name="create_your_username_and_password_here">Create your username and password here.</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="register_now">Register Now</string>
+    <string name="phone">Phone</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="find_driver">Find Driver</string>
+</resources>
